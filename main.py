@@ -1,4 +1,3 @@
-from os import pread
 import pygame
 import sys
 
